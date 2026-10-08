@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nama": "Beras 5 kg",
+        "harga": 65000,
+        "stok": 20
+    },
+    {
+        "id": 2,
+        "nama": "Minyak Goreng 1 L",
+        "harga": 18000,
+        "stok": 30
+    },
+    {
+        "id": 3,
+        "nama": "Gula Pasir 1 kg",
+        "harga": 17000,
+        "stok": 25
+    },
+    {
+        "id": 4,
+        "nama": "Telur Ayam 1 kg",
+        "harga": 28000,
+        "stok": 15
+    },
+    {
+        "id": 5,
+        "nama": "Mie Instan Goreng",
+        "harga": 3500,
+        "stok": 100
+    },
+    {
+        "id": 6,
+        "nama": "Garam 100 Gram",
+        "harga": 25000,
+        "stok": 15
+    },
+    {
+        "id": 7,
+        "nama": "Garam 100 Gram",
+        "harga": 30000,
+        "stok": 55
+    }
+]
