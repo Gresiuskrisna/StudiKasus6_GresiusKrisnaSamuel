@@ -46,7 +46,7 @@ Fungsi ini digunakan untuk menambahkan data barang baru ke dalam variabel data.
 - Fungsi mengembalikan teks "Data ditambah" sebagai penanda proses berhasil.
 
 
-# 4. Fungsi simpan_file()
+# 3. Fungsi simpan_file()
 Fungsi ini bertugas menyimpan pembaruan data secara permanen ke file.
 
 - File inventaris.json dibuka dengan mode "w" (write) untuk menimpa data lama dengan list data yang baru diupdate.
@@ -54,7 +54,7 @@ Fungsi ini bertugas menyimpan pembaruan data secara permanen ke file.
 - Fungsi json.dump(data, f, indent=4) digunakan untuk menulis list ke dalam file JSON. Tambahan indent=4 berfungsi agar struktur data di dalam file tersusun rapi dengan indentasi 4 spasi.
 
 
-# 5. Program Utama (While Loop)
+# 4. Program Utama (While Loop)
 Program menggunakan perulangan while True untuk menampilkan menu secara terus menerus sampei user keluar.
 
 - Pilihan 1 (Lihat semua barang): Program akan langsung mencetak isi variabel data yang berisi list barang ke layar terminal.
